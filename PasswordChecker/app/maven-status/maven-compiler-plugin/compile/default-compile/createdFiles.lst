@@ -1,0 +1,5 @@
+passwordchecker\Gui.class
+passwordchecker\PasswordChecker.class
+passwordchecker\Main.class
+passwordchecker\PownedChecker.class
+passwordchecker\PasswordGenerator.class
